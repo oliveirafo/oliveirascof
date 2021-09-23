@@ -1,7 +1,7 @@
-### Hey, I'm Felipe Oliveira! 👋
+## Hey, I'm Felipe Oliveira! 👋
 <br>
 
-Find me elsewhere:<br>
+### Find me elsewhere:<br>
 <a href="https://www.linkedin.com/in/fdocs/">Linkedin</a>
 
 <br>
