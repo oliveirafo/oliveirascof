@@ -7,7 +7,7 @@
 :outbox_tray: Goals for 2021: create new projects, create clean codes, learn, grow and find a new job.
 
 ### Find me elsewhere:
-- <a href="https://www.linkedin.com/in/fdocs/">Linkedin</a>
+- <a href="https://www.linkedin.com/in/fdocs/" target="_blank">Linkedin</a>
 
 :house_with_garden: Born in Espirito Santo and living in Rio de Janeiro, Brazil
 
