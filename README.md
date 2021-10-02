@@ -1,6 +1,6 @@
 ## Hey, I'm Felipe Oliveira! 👋
 
-:computer: I'm Cloud Data Engineer!
+:computer: I'm Data Engineer!
 
 :books: I’m currently learning everything.
 
