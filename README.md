@@ -1,6 +1,6 @@
 ## Hey, I'm Felipe Oliveira! 👋
 
-:computer: I'm engineering student !
+:computer: I'm data engineering student !
 
 :books: I’m currently learning everything.
 
