@@ -1,7 +1,5 @@
 ## Hey, I'm Felipe Oliveira! 👋
 
-:computer: I'm data engineering student !
-
 :books: I’m currently learning everything.
 
 :outbox_tray: Goals for 2021: create new projects, create clean codes, learn, grow and find a new job.
