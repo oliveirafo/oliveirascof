@@ -4,7 +4,7 @@
 :books: Sou Felipe e estou sempre aprendendo.
 
 :outbox_tray: I'm mobile developer focused in user experience. Becouse of this, I'm constantly working to make this experience better every day <br>
-:outbox_tray: Sou desenvolvedor mobile focado na experiência do usuário. Por isso, estou constantemente trabalhando para tornar essa experiência melhor todos os dias.
+:outbox_tray: Sou desenvolvedor mobile focado na experiência do usuário. Por isso, estou constantemente trabalhando para uma experiência melhor todos os dias.
 
 :outbox_tray: Goals for 2022: New projects, clean code, user experience, learn, grow and grow. <br>
 :outbox_tray: Metas para 2022: Novos projetos, código limpo, experiência do usuário, aprender, crescer e crescer.
