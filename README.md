@@ -2,7 +2,7 @@
 
 :books: Estou sempre aprendendo. <br>
 
-:outbox_tray: SOu desenvolvedor mobile focado na experiencia do usuário. Estou sempre trabalhando. <br>
+:outbox_tray: Sou desenvolvedor mobile focado na experiencia do usuário. Estou sempre trabalhando. <br>
 
 
 :outbox_tray: Metas para 2022: Novos projetos, aprendizado e crescimento.<br>
