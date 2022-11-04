@@ -1,4 +1,4 @@
-## Hey, I'm Felipe Oliveira! 👋
+## Oi, sou Felipe Oliveira! 👋
 
 :books: Estou sempre aprendendo. <br>
 
