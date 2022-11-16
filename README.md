@@ -10,4 +10,4 @@
 ### Contato:
 - <a href="https://www.linkedin.com/in/fdocs/" target="_blank">Linkedin</a> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/db8f1cbd38ac0ae2a08f36f961096dbd59a02393/Assets/Linkedin.svg" height="15" width="15"> 
 
-:house_with_garden: Nascido no Espirito Santo, vivendo sempre no Rio de Janeiro <br>
+:house_with_garden: Nascido no Espirito Santo, vivendo sempre no Rio de Janeiro. <br>
