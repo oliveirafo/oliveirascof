@@ -1,9 +1,8 @@
 ## Oi, sou Felipe Oliveira! 👋
 
-:books: Estou sempre aprendendo. <br>
+:books: Sempre aprendendo! <br>
 
-:outbox_tray: Sou desenvolvedor mobile focado na experiencia do usuário. Estou sempre trabalhando. <br>
-
+:outbox_tray: Um desenvolvedor mobile apaixonado por tecnologia e focado na experiencia do usuário. <br>
 
 :outbox_tray: Metas para 2022: Novos projetos, aprendizado e muito crescimento.<br>
 
