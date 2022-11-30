@@ -2,7 +2,7 @@
 
 :books: Sempre aprendendo! <br>
 
-:outbox_tray: Um desenvolvedor mobile apaixonado por tecnologia. <br>
+:outbox_tray: Um desenvolvedor mobile apaixonado por tecnologia <br>
 
 :outbox_tray: Metas para 2022: Novos projetos, aprendizado e muito crescimento.<br>
 
