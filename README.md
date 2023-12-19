@@ -13,6 +13,8 @@ Next.JS, React Native, Typescript, Python, SQL Server, PostgreSQL, PrismaORM, Ex
 ### Agile development: 
 Scrum Foundation Certificate, Kanban. <br><br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveirait)](https://github.com/oliveirait/github-readme-stats)<br>
+
 
 :outbox_tray: Goal for 2024: New projects, English proficiency and significant professional growth. 
 
