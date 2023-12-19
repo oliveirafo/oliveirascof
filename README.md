@@ -8,8 +8,8 @@
  Over time, I have gained extensive experience in Information Technology, such as IT support management and user tecnical support.<br>
 
 ### Skills:
-Next.JS, React Native, Typescript
-NodeJs, Python, Express.js, Flask
+Next.JS, React Native, Typescript,
+NodeJs, Python, Express.js, Flask,
 SQL Server, PostgreSQL, PrismaORM, 
 Tailwind, Native-Base, ...
 Rest APIs, Git
