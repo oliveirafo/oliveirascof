@@ -8,7 +8,11 @@
  Over time, I have gained extensive experience in Information Technology, such as IT support management and user tecnical support.<br>
 
 ### Skills:
-Next.JS, React Native, Typescript, Python, SQL Server, PostgreSQL, PrismaORM, Express.js, Rest APIs, Git
+Next.JS, React Native, Typescript
+NodeJs, Python, Express.js, Flask
+SQL Server, PostgreSQL, PrismaORM, 
+Tailwind, Native-Base, ...
+Rest APIs, Git
 
 ### Agile development: 
 Scrum Foundation Certificate, Kanban. <br><br>
