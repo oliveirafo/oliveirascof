@@ -18,7 +18,7 @@ Scrum Foundation Certificate, Kanban. <br><br>
 
 
 ### Contato:
-- <a href="https://www.linkedin.com/in/fdocs/" target="_blank">Linkedin</a> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/db8f1cbd38ac0ae2a08f36f961096dbd59a02393/Assets/Linkedin.svg" height="15" width="15"> 
+- <a href="https://www.linkedin.com/in/oliveirait/" target="_blank">Linkedin</a> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/db8f1cbd38ac0ae2a08f36f961096dbd59a02393/Assets/Linkedin.svg" height="15" width="15"> 
 - <a href="https://oliveiracode.online" target="_blank">Site</a> <img src="" height="15" width="15"> 
 
 
