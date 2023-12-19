@@ -1,13 +1,25 @@
-## Oi, sou Felipe Oliveira! 👋
+## Hello, I am Felipe Oliveira! 👋
 
-:books: Sempre aprendendo! Sempre aprender! <br>
+:books: Continually learning. <br>
 
-:outbox_tray: Um desenvolvedor mobile que se reinventa através da tecnologia <br>
+ I have a degree in Information Systems from Universidade Estácio de Sá and I am specializing in Software Engineering.<br>
+ I am a person passionate about technology. <br>
+ Currently, I work as a systems analyst and web and mobile application developer. <br>
+ Over time, I have gained extensive experience in Information Technology, such as IT support management and user tecnical support.<br>
 
-:outbox_tray: Metas para 2023: Novos projetos, aprendizado e muito crescimento.<br>
+### Skills:
+Next.JS, React Native, Typescript, Python, SQL Server, PostgreSQL, PrismaORM, Express.js, Rest APIs, Git
+
+### Agile development: 
+Scrum Foundation Certificate, Kanban. <br><br>
+
+
+:outbox_tray: Goal for 2024: New projects, English proficiency and significant professional growth. 
+
 
 ### Contato:
 - <a href="https://www.linkedin.com/in/fdocs/" target="_blank">Linkedin</a> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/db8f1cbd38ac0ae2a08f36f961096dbd59a02393/Assets/Linkedin.svg" height="15" width="15"> 
 - <a href="https://oliveiracode.online" target="_blank">Site</a> <img src="" height="15" width="15"> 
 
-:house_with_garden: Natural do Espirito Santo, moro no Rio de Janeiro (berço). <br>
+
+:house_with_garden: Rio de Janeiro, Brazil. <br>
